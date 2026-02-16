@@ -118,8 +118,7 @@ automated-report-distribution/
 ├── requirements.txt                           # Python dependencies
 ├── screenshots/                               # Visual examples
 │   ├── email-example.png
-│   ├── pdf-page1.png
-│   └── summary-metrics.png
+│   └── pdf-page1.png
 └── README.md                                  # This file
 ```
 
