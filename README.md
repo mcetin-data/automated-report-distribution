@@ -199,10 +199,10 @@ This approach can be adapted for:
 ## 📞 Contact
 
 **Mehmet Cetin**  
-Business Intelligence Analyst | Data Analytics Professional  
+Data Analyst | BI Developer  
 
-- LinkedIn: https://www.linkedin.com/in/mehmet-cetin-461674a4/
-- Email: mcetin11@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mehmet-cetin-461674a4/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mcetin-data)
 
 ---
 
